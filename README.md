@@ -25,3 +25,7 @@ https://downloads.weaselmods.net/download/southern-edge/
 https://github.com/Gibberlings3/The_Calling
 
 https://github.com/red-carnelian/The-Stone-of-Askavar
+
+https://www.morpheus-mart.com/tactics-remix
+
+https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests
