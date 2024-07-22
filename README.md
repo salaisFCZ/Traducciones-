@@ -42,6 +42,10 @@ https://github.com/Pocket-Plane-Group/Item_Upgrade
 
 https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call
 
+https://github.com/Pocket-Plane-Group/Assassinations
+
+https://github.com/Pocket-Plane-Group/Banter_Pack
+
 
 
 
