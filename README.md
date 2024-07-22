@@ -1,12 +1,6 @@
 https://github.com/The-Gate-Project/DarkHorizons
 
-https://github.com/The-Gate-Project/VampireTales
-
 https://github.com/The-Gate-Project/Com_encounters
-
-https://github.com/The-Gate-Project/Alcool
-
-https://github.com/The-Gate-Project/Nanstein
 
 https://github.com/The-Gate-Project/AerieBG1
 
@@ -29,3 +23,13 @@ https://github.com/red-carnelian/The-Stone-of-Askavar
 https://www.morpheus-mart.com/tactics-remix
 
 https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests
+
+Mods ya en español
+
+https://github.com/SpellholdStudios/DSotSC
+
+https://github.com/The-Gate-Project/Nanstein
+
+https://github.com/The-Gate-Project/Alcool
+
+https://github.com/The-Gate-Project/VampireTales
