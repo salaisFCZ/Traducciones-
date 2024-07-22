@@ -52,6 +52,12 @@ https://github.com/SpellholdStudios/Shadows_over_Soubar
 
 https://github.com/Argent77/A7-TotLM-BG2EE
 
+https://github.com/SpellholdStudios/Lucy_the_Wyvern
+
+https://github.com/SpellholdStudios/Trovador_REO
+
+https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor
+
 
 
 
