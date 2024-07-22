@@ -48,6 +48,10 @@ https://github.com/Pocket-Plane-Group/Banter_Pack
 
 https://github.com/Pocket-Plane-Group/UnfinishedBusiness   (A restoration mod for Baldur's Gate 2)
 
+https://github.com/SpellholdStudios/Shadows_over_Soubar
+
+https://github.com/Argent77/A7-TotLM-BG2EE
+
 
 
 
