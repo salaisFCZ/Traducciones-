@@ -58,6 +58,8 @@ https://github.com/SpellholdStudios/Trovador_REO
 
 https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor
 
+https://www.pocketplane.net/quest-pack/
+
 
 
 
