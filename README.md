@@ -20,6 +20,8 @@ https://downloads.weaselmods.net/download/southern-edge/
 
 https://downloads.weaselmods.net/download/bridges-block/ (pronto)
 
+https://github.com/Austin-BG/HTaM       ( pronto )
+
 https://github.com/Gibberlings3/The_Calling
 
 https://github.com/red-carnelian/The-Stone-of-Askavar
