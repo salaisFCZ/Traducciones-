@@ -1,4 +1,4 @@
-Mods traducidos por mi :
+Mods traducidos por mi (español latino):
 
 https://github.com/The-Gate-Project/DarkHorizons
 
