@@ -18,7 +18,7 @@ https://downloads.weaselmods.net/download/shades-of-the-sword-coast/
 
 https://downloads.weaselmods.net/download/southern-edge/
 
-https://downloads.weaselmods.net/download/bridges-block/
+https://downloads.weaselmods.net/download/bridges-block/ (pronto)
 
 https://github.com/Gibberlings3/The_Calling
 
