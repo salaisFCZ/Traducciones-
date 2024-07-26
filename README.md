@@ -42,6 +42,8 @@ https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod ( ver en no oficial)
 
 https://github.com/Gitjas/hiddenadventure ( ver en no oficial)
 
+https://akadis.baldursgateworld.fr/Jan/JansQuestFr.html ( ver en no oficial)
+
 
 
 
