@@ -40,6 +40,8 @@ https://github.com/Renegade0/InfinityUI/releases (IOVIVO)
 
 https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod ( ver en no oficial)
 
+https://github.com/Gitjas/hiddenadventure ( ver en no oficial)
+
 
 
 
