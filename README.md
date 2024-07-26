@@ -38,6 +38,8 @@ https://github.com/Gibberlings3/PnP_Celestials (IOVIVO)
 
 https://github.com/Renegade0/InfinityUI/releases (IOVIVO)
 
+https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod ( ver en no oficial)
+
 
 
 
