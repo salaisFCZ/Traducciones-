@@ -46,6 +46,8 @@ https://akadis.baldursgateworld.fr/Jan/JansQuestFr.html ( ver en no oficial)
 
 https://github.com/GwendolyneFreddy/butchery ( Ver en no oficial )
 
+https://forums.beamdog.com/discussion/41836/mod-kensai-rebalancing-for-bg-ee-and-bgii-ee-v2-6/p1 ( Por GNZEK ver en no oficial)
+
 
 
 
