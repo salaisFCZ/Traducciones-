@@ -1,5 +1,7 @@
 Mods traducidos por mi (español latino usando diccionario Dlan de palabras clave):
 
+-------------------------------------------------------------------------------------------------------------------------
+
 https://github.com/The-Gate-Project/DarkHorizons
 
 https://github.com/The-Gate-Project/Com_encounters
