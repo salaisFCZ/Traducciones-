@@ -1,4 +1,6 @@
-Mods traducidos por mi (español latino usando diccionario Dlan de palabras clave):
+Mods traducidos por mi (español latino usando glosario Dlan de palabras clave):
+
+Mods translated by me (latin spanish using Dlan glossary of keywords):
 
 -------------------------------------------------------------------------------------------------------------------------
 
