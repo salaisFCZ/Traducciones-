@@ -12,7 +12,7 @@ https://github.com/The-Gate-Project/AerieBG1
 
 https://github.com/The-Gate-Project/DarkHorizons
 
-https://github.com/Gitjas/Ascalons_Questpack/releases/tag/v5.2
+https://github.com/Gitjas/Ascalons_Questpack
 
 https://github.com/GraionDilach/ExtraExpandedEnhancedEncounters
 
