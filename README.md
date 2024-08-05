@@ -26,7 +26,7 @@ https://downloads.weaselmods.net/download/tangled-oak-isle/
 
 https://downloads.weaselmods.net/download/bridges-block/
 
-https://github.com/Austin-BG/HTaM       ( pronto )
+https://github.com/Austin-BG/HTaM       
 
 https://github.com/Gibberlings3/The_Calling
 
