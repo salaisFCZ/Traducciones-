@@ -22,6 +22,8 @@ https://downloads.weaselmods.net/download/shades-of-the-sword-coast/
 
 https://downloads.weaselmods.net/download/southern-edge/
 
+https://downloads.weaselmods.net/download/tangled-oak-isle/
+
 https://downloads.weaselmods.net/download/bridges-block/
 
 https://github.com/Austin-BG/HTaM       ( pronto )
