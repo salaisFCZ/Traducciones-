@@ -42,6 +42,8 @@ https://github.com/Renegade0/DragonspearUI ( IOVIVO)
 
 https://github.com/Gibberlings3/PnP_Celestials (IOVIVO)
 
+https://github.com/Argent77/A7-HiddenGameplayOptions ( IOVIVO y alaisfcz)
+
 https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod ( ver en no oficial)
 
 https://github.com/Gitjas/hiddenadventure ( ver en no oficial)
