@@ -10,6 +10,8 @@ https://github.com/The-Gate-Project/Com_encounters
 
 https://github.com/The-Gate-Project/AerieBG1
 
+https://github.com/The-Gate-Project/Nanstein
+
 https://github.com/Gitjas/Ascalons_Questpack
 
 https://github.com/GraionDilach/ExtraExpandedEnhancedEncounters
