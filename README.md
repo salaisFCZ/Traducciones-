@@ -26,6 +26,8 @@ https://downloads.weaselmods.net/download/tangled-oak-isle/
 
 https://downloads.weaselmods.net/download/bridges-block/
 
+https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/
+
 https://github.com/Austin-BG/HTaM       
 
 https://github.com/Gibberlings3/The_Calling
