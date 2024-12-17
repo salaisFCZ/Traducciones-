@@ -36,6 +36,8 @@ https://github.com/red-carnelian/The-Stone-of-Askavar
 
 https://www.morpheus-mart.com/tactics-remix
 
+https://github.com/The-Gate-Project/butchery ( master tiene español )
+
 https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests
 
 https://github.com/TotalMilk90/gorgon ( IOVIVO y alaisfcz reviso)
