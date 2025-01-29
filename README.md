@@ -36,6 +36,8 @@ https://github.com/red-carnelian/The-Stone-of-Askavar
 
 https://www.morpheus-mart.com/tactics-remix
 
+https://github.com/Gitjas/hiddenadventure
+
 https://github.com/The-Gate-Project/butchery ( master tiene español )
 
 https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests
@@ -53,8 +55,6 @@ https://github.com/Gibberlings3/PnP_Celestials (IOVIVO)
 https://github.com/Argent77/A7-HiddenGameplayOptions ( IOVIVO y alaisfcz)
 
 https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod ( ver en no oficial)
-
-https://github.com/Gitjas/hiddenadventure ( ver en no oficial)
 
 https://akadis.baldursgateworld.fr/Jan/JansQuestFr.html ( ver en no oficial)
 
